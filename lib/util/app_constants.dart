@@ -4,8 +4,8 @@ import 'package:six_cash/data/model/response/on_boarding_model.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String appName = '6Cash';
-  static const String baseUrl = 'https://6cash-admin.sixamtech.com/dev';
+  static const String appName = 'EWalletDibestspot';
+  static const String baseUrl = 'https://ewalletadmin.dibestspot.com';
   static const bool demo = true;
   static const double appVersion = 4.1;
   static const String customerPhoneCheckUri = '/api/v1/customer/auth/check-phone';

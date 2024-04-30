@@ -67,7 +67,7 @@ class ApiClient extends GetxService {
       return const Response(statusCode: -1, statusText: 'you are using vpn');
     }else{
       try {
-        debugPrint('====> API Call: $uri\nHeader: $_mainHeaders');
+        debugPrint('====> API Call: $appBaseUrl$uri\nHeader: $_mainHeaders');
         http.Response response = await http.get(
           Uri.parse(appBaseUrl+uri),
           headers: headers ?? _mainHeaders,

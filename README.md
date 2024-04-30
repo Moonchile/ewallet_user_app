@@ -1,4 +1,4 @@
-# 6Cash Mobile App
+# Ewallet Dibestspot Mobile App
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/sixamtech/6cash-mobile-app.git
+git remote add origin https://github.com/Moonchile/ewallet-dibestspot.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:6825abc102c0a16017877dc8aa61d6ff?https://gitlab.com/sixamtech/6cash-mobile-app/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:6825abc102c0a16017877dc8aa61d6ff?https://github.com/Moonchile/ewallet-dibestspot/-/settings/integrations)
 
 ## Collaborate with your team
 
